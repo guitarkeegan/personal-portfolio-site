@@ -127,3 +127,34 @@ a:hover {
     width: 200px;
     height: 200px;
 }
+
+.contact-info {
+    color: #A33A31;
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+    font-size: 2rem;
+}
+
+.contact-info i {
+    font-size: 4rem;
+    color: #A33A31;
+}
+
+.social-media-icons {
+    font-size: 2rem;
+}
+
+.social-media-icons i {
+    color: #A33A31;
+}
+
+.footer {
+    position: relative;
+    bottom: 200px;
+    text-align: center;
+}
+
+#copyright {
+    color: #A33A31;
+}
