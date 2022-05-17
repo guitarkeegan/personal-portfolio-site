@@ -64,3 +64,25 @@ a:hover {
     border-right: 800px solid transparent;
     border-bottom: 1000px solid #41A36C;
 }
+
+.about {
+    position: relative;
+    bottom: 600px;
+    background-color: transparent;
+
+}
+
+.about-box {
+    margin-left: 500px;
+    margin-right: 500px;
+    color: #A33A31;
+}
+
+.about-box p {
+    font-size: 1.5rem;
+}
+
+.about div h2 {
+    text-align: center;
+    font-size: 2rem;
+}
