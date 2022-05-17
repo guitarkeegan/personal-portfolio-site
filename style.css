@@ -158,3 +158,73 @@ a:hover {
 #copyright {
     color: #A33A31;
 }
+
+/* responsive compenents */
+
+@media screen and (max-width: 1600px) {
+    
+    .header-links {
+        text-align: center;
+        margin: 100px 0 0 0;
+    }
+
+    .header-links li {
+        list-style: none;
+        display: inline;
+        margin: 0 10px 0;
+    }
+    
+    .triangle {
+        height: 600px;
+        width: 100vw;
+        background-color: #41A36C;
+        margin: 0 auto 0 auto;
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+    }
+
+    .about {
+        position: relative;
+        bottom: 560px;
+        background-color: transparent;
+    
+    }
+
+    .about-box {
+        margin-left: 40px;
+        margin-right: 40px;
+        color: #A33A31;
+    }
+
+    .technologies {
+        font-size: 6em;
+        position: relative;
+        bottom: 510px;
+        text-align: center;
+        background-color: #78F0AC;
+    
+    }
+
+}
+
+@media screen and (max-width: 784px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: none;
+        background-color: #A33A31;
+        padding: 20px;
+        position: relative;
+        bottom: 515px;
+      }
+
+      .grid-item {
+        background-color: #F08178;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        font-size: 16px;
+        text-align: center;
+        color: black;
+        
+    }
+}
