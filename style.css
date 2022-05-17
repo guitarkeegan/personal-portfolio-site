@@ -86,3 +86,44 @@ a:hover {
     text-align: center;
     font-size: 2rem;
 }
+
+.applications {
+    position: relative;
+    bottom: 300px;
+}
+
+.technologies {
+    font-size: 6rem;
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+
+}
+
+.technologies span {
+    margin: 0 20px 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #A33A31;
+    padding: 10px;
+    position: relative;
+    bottom: 515px;
+  }
+
+.grid-item {
+    background-color: #F08178;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    
+}
+
+.grid-item img {
+    width: 200px;
+    height: 200px;
+}
