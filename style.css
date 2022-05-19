@@ -20,7 +20,7 @@ a {
 a:hover {
     opacity: 0.5;
 }
-
+/* header styleing */
 .header-links{
     text-align: right;
     margin: 100px 200px 0px 0px;
@@ -149,7 +149,7 @@ a:hover {
     color: #A33A31;
 }
 
-.footer {
+footer {
     position: relative;
     bottom: 200px;
     text-align: center;
@@ -163,12 +163,12 @@ a:hover {
 
 @media screen and (max-width: 1600px) {
     
-    .header-links {
+    header.header-links {
         text-align: center;
         margin: 100px 0 0 0;
     }
 
-    .header-links li {
+    header.header-links li {
         list-style: none;
         display: inline;
         margin: 0 10px 0;
