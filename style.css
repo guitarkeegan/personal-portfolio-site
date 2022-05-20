@@ -17,6 +17,28 @@ a {
     text-decoration: none;
 }
 
+figure {
+    width: 100%;
+    height: 600px;
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+    color: #A33A31;
+}
+
+figure > img {
+    border: 10px solid #A33A31;
+}
+
+figure > h2 {
+    font-size: 3rem;
+}
+
+figure > a {
+    font-size: 1.5rem;
+    color:#A33A31;
+}
+
 a:hover {
     opacity: 0.5;
 }
@@ -95,7 +117,7 @@ a:hover {
 .technologies {
     font-size: 6rem;
     position: relative;
-    bottom: 500px;
+    bottom: 560px;
     text-align: center;
 
 }
@@ -110,7 +132,7 @@ a:hover {
     background-color: #A33A31;
     padding: 10px;
     position: relative;
-    bottom: 515px;
+    bottom: 420px;
   }
 
 .grid-item {
