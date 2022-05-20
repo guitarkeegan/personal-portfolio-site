@@ -185,12 +185,12 @@ footer {
 
 @media screen and (max-width: 1600px) {
     
-    header.header-links {
+    .header-links {
         text-align: center;
         margin: 100px 0 0 0;
     }
 
-    header.header-links li {
+    .header-links li {
         list-style: none;
         display: inline;
         margin: 0 10px 0;
@@ -222,22 +222,51 @@ footer {
     .technologies {
         font-size: 6em;
         position: relative;
-        bottom: 510px;
+        bottom: 480px;
         text-align: center;
-        background-color: #78F0AC;
+        background-color:#41A36C;
     
     }
 
+    figure {
+        bottom: 310px;
+    }
+    .grid-container {
+        bottom: 100px;
+        margin-bottom: 200px;
+    }
+
+    .contact-info {
+        bottom: 150px;
+    }
+
+    footer {
+        bottom: 100px;
+    }
 }
 
 @media screen and (max-width: 784px) {
+
+    figure {
+        width: 100vw;
+        bottom: 500px;
+    }
+    figure > img {
+        width: 100vw;
+    }
+
+    .technologies {
+        bottom: 600px;
+    }
+
     .grid-container {
         display: grid;
         grid-template-columns: none;
         background-color: #A33A31;
         padding: 20px;
         position: relative;
-        bottom: 515px;
+        bottom: 450px;
+        margin-bottom: 0;
       }
 
       .grid-item {
@@ -249,4 +278,13 @@ footer {
         color: black;
         
     }
+
+    .contact-info {
+        bottom: 300px;
+    }
+
+    footer {
+        bottom: 250px;
+    }
+
 }
