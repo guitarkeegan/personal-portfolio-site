@@ -1,6 +1,21 @@
-# personal-portfolio-site
+# Project Title
+
+My Portfolio
 
 ## Description
-This is a person portfolio site made created with only html and css. There is some information about me and contains links to some of the projects that I have made in the past year. 
 
+I created this site to showcase some of the applications that I have been working on over the past year.
+
+## Authors
+
+Keegan Anglim
+
+[@NageekDBeat](https://twitter.com/nageekdbeat)
+
+
+## Acknowledgments
+
+A special thank you to Angela Yu for all of her great tutorials and courses!
+
+### Preview
 

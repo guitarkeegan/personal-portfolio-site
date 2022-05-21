@@ -26,10 +26,6 @@ figure {
     color: #A33A31;
 }
 
-figure > img {
-    border: 10px solid #A33A31;
-}
-
 figure > h2 {
     font-size: 3rem;
 }
@@ -107,6 +103,10 @@ a:hover {
 .about div h2 {
     text-align: center;
     font-size: 2rem;
+}
+
+figure img {
+    border: 10px solid #A33A31;
 }
 
 .applications {
@@ -251,7 +251,7 @@ footer {
         width: 100vw;
         bottom: 500px;
     }
-    figure > img {
+    figure img {
         width: 100vw;
     }
 
