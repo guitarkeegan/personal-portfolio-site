@@ -19,3 +19,4 @@ A special thank you to Angela Yu for all of her great tutorials and courses!
 
 ### Preview
 
+![Preview](./img/KeeganAnglim.gif)
