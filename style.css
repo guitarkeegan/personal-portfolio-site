@@ -288,3 +288,34 @@ footer {
     }
 
 }
+
+@media screen and (max-width: 500px){
+    body {
+        margin: 0 auto 0;
+        padding: 0;
+        
+    }
+    .header-links{
+        margin: 50px 0 0 0;
+    }
+    .triangle{
+        background-color: #78F0AC;
+    }
+    .about {
+        opacity: 1;
+        background-color: #78F0AC;
+    }
+    .about-box {
+        margin: 0 5px;
+    }
+    .grid-container {
+        bottom: 700px;
+    }
+    .contact-info{
+        font-size: 16px;
+        bottom: 600px;
+    }
+    footer{
+        bottom: 550px;
+    }
+}
