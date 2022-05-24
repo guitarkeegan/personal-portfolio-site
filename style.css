@@ -7,6 +7,7 @@
 body {
     background-color: #78F0AC;
     font-family: 'Poppins', sans-serif;
+    height: 100vh;
 }
 
 h1, h2, h3 {
@@ -175,6 +176,7 @@ footer {
     position: relative;
     bottom: 200px;
     text-align: center;
+    padding-bottom: 80px;
 }
 
 #copyright {
@@ -245,7 +247,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 784px) {
+@media screen and (max-width: 824px) {
 
     figure {
         width: 100vw;
@@ -256,7 +258,7 @@ footer {
     }
 
     .technologies {
-        bottom: 600px;
+        bottom: 550px;
     }
 
     .grid-container {
@@ -309,7 +311,7 @@ footer {
         margin: 0 5px;
     }
     .grid-container {
-        bottom: 700px;
+        bottom: 650px;
     }
     .contact-info{
         font-size: 16px;
