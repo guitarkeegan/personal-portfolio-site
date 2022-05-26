@@ -57,6 +57,10 @@ a:hover {
     opacity: 0.5;
 }
 
+figure a:hover {
+    opacity: 0.5;
+}
+
 /* start class styling */
 
 .header-links{
