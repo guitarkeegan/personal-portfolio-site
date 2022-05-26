@@ -15,8 +15,9 @@ Keegan Anglim
 
 ## Acknowledgments
 
-A special thank you to Angela Yu for all of her great tutorials and courses!
+A special thank you to Angela Yu for all of her great tutorials and courses, as well as Bryan Swarthout
+and his TAs Michael McEwen and Sammi Moore. 
 
 ### Preview
 
-![Preview](./img/KeeganAnglim.gif)
+![Preview](./assets/img/KeeganAnglim.gif)
